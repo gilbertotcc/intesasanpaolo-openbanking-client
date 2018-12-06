@@ -1,6 +1,7 @@
 package com.github.gilbertotcc.intesasanpaolo;
 
-public interface IntesaSanPaoloOpenbankingClient {
+public class IntesaSanpaoloOpenBankingClientTest {
 
     // TODO
+
 }

@@ -7,7 +7,7 @@ import retrofit2.Response;
 import retrofit2.http.GET;
 import retrofit2.http.POST;
 
-public interface IntesaSanPaoloOpenbankingApi {
+public interface IntesaSanpaoloOpenBankingApi {
 
     @GET("/v1/accounts/*/balance")
     Call<Response<AccountBalance>> retrieveAccountBalance();
