@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "error": null,
+  "payload": {
+    "orderId": "0306921762315103480100101001IT",
+    "paymentId": "0304161762528507440100001000IT",
+    "endToEndId": "NOT PROVIDED",
+    "customerCro": "1803153714600096",
+    "transactionStatusDescription": "ACSC-Prtry:",
+    "paymentStatus": "ACSC",
+    "amount": "450.00",
+    "currency": "EUR",
+    "date": "2017-12-31T23:59:60Z",
+    "categoryPurpose": "CASH",
+    "paymentInformation": "SCT instant payment",
+    "debtorName": "Mr. Sender",
+    "debtorIBAN": "IT04G0306901000XTESTXCASEX1",
+    "debtorBic": "BCITITMMXXX",
+    "ultimateDebtorName": null,
+    "creditorName": "Mr. Receiver",
+    "creditorIBAN": "IT94H0306901000XTESTXCASEX2",
+    "creditorBic": "BCITITMMXXX",
+    "ultimateCreditorName": null
+  }
+}
