@@ -10,7 +10,7 @@
     "paymentStatus": "ACSC",
     "amount": "450.00",
     "currency": "EUR",
-    "date": "2017-12-31T23:59:60Z",
+    "date": "2017-12-31T23:59:59Z",
     "categoryPurpose": "CASH",
     "paymentInformation": "SCT instant payment",
     "debtorName": "Mr. Sender",

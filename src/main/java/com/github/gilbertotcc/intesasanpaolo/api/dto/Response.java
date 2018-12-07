@@ -9,6 +9,7 @@ public class Response<T> {
     @JsonProperty("success")
     private boolean success;
 
+    // FIXME 'errors' on GET /v1/tools/iban/formal-check response
     @JsonProperty("error")
     private Object error; // TODO Documentation doesn't provide details about that field
 

@@ -2,7 +2,7 @@ package com.github.gilbertotcc.intesasanpaolo.api.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-public class IbanVerificationResult {
+public class IbanVerification {
 
     @JsonProperty("isValid")
     private boolean valid;
@@ -25,7 +25,7 @@ public class IbanVerificationResult {
     @JsonProperty("bban")
     private String bban;
 
-    private IbanVerificationResult() {}
+    private IbanVerification() {}
 
     public boolean isValid() {
         return valid;
