@@ -3,6 +3,9 @@ Intesa Sanpaolo Open Banking Client
 
 _[Draft of]_ Java client to use [Intesa Sanpaolo Open Banking API](https://openbanking.intesasanpaolo.com/).
 
+Unfortunately the client implements only documented APIs available on _Playground_ environment. However you can
+fork this repository and use code as starting point to build your own Intesa Sanpaolo Open Banking Java client.
+
 Playground (fun) facts
 ----------------------
 
